@@ -1,0 +1,7 @@
+{
+    "name": "WorkbenchAPI",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/mgurga/WorkbenchAPI",
+    "description": "Easily create new items with just a few lines of code",
+    "dependencies": []
+}
